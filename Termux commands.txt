@@ -20,9 +20,9 @@
 
 11. termux-setup-storage
 
-12 git clone https://github.com/prexzybooster/PREXZY-BUG-BOT 
+12 git clone https://github.com/Chadro14/Alien-77/tree/main
 
-12. cd PREXZY-BUG-BOT
+12. cd Alien-77
 
 14. yarn install
 
